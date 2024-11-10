@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Lubo
-## Learning full-stack development
+## Java Backend developer
 
-- 🌱 I’m currently learning full-stack development through the [Odin Project](https://www.theodinproject.com/)
+
 - 📫 You can reach me => 1Lubo@pm.me
 
 <!---
